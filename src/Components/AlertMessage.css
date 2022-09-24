@@ -1,0 +1,20 @@
+.show-alert{
+    float:right;
+    height:10%;
+    width:20%;
+    border: 1px solid rbg(103,226,59);
+    margin-bottom: 1rem;
+    border-radius: 5px;
+}
+.text{
+    text-align: center;
+}
+.remove-alert{
+    text-align: end;
+    cursor: pointer;
+    margin-top: 0rem;
+    margin-right: 0.5rem;
+}
+.remove-alert:hover{
+    border-radius: 50%;
+}
